@@ -1,0 +1,16 @@
+POMODORO
+? Work (minutes) : // 25  | default 25
+? Break (minutes) : // 5  | default 5
+? Repeat until : /4  | default 0
+? Music(yes/no) : // yes | default no
+=== multiple === 
+--> lofi
+--> rain
+--> ambience
+--> jazz 
+--> piano
+=== multiple ===
+
+
+
+
